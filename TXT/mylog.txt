@@ -16,3 +16,4 @@ ZCZC W01 10 L13 Assignment #03
 ZCZC W01 30 L02 ZOOM meetings related
 ZCZC W01 9 L05 Quiz related 
 ZCZC W02 33 L06 studying getopt
+ZCZC W02 80 L02 ZOOM meetings related + Assignment #01
