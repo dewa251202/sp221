@@ -26,4 +26,5 @@ ZCZC W02 76 L13 Assignment #03 - LFS ch. 6
 ZCZC W02 133 L13 Assignment #03 - LFS ch. 7
 ZCZC W03 16 L21 Trying to install NFS
 ZCZC W03 100 L02 ZOOM meetings related + Assignment #3
-ZCZC W03 31 L12 Assignment #02 
+ZCZC W03 31 L12 Assignment #02
+ZCZC W03 28 L11 Assignment #01 - Compiling new kernel 
