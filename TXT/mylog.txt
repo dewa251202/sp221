@@ -38,3 +38,4 @@ ZCZC W04 26 L13 Assignment #3 no. 1
 ZCZC W04 5 L13 Assignment #3 no. 2
 ZCZC W05 100 L02 Zoom meetings related
 ZCZC W05 29 L09 Compiling new kernel
+ZCZC W05 1 L12 Assignment #02
