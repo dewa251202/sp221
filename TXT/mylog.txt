@@ -49,3 +49,4 @@ ZCZC W07 110 L02 Zoom meetings related
 ZCZC W07 50 L02 Zoom meetings related
 ZCZC W07 32 L13 Assignment #3 - making hello04 module
 ZCZC W07 30 L09 Compiling new kernel
+ZCZC W08 85 L02 Zoom meetings related
